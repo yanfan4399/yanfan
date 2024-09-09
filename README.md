@@ -1,2 +1,26 @@
 # yanfan
 It's useless. Just waste your time.
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>不想上学</title>
+</head>
+<body>
+    <h1>为什么我不想上学？</h1>
+    <p>
+        今天早上闹钟一响，我躺在床上看着天花板，突然觉得上学这件事让我感到很疲惫。
+        <strong>学习压力</strong>越来越大，考试、作业、项目接踵而至，真的让我喘不过气来。
+    </p>
+    <p>
+        我甚至开始怀疑这些课程对未来的帮助，日复一日的重复性学习，
+        让我不禁问自己：<em>"这真的有意义吗？"</em> 
+        <br>为什么不能休息一下？为什么不能有更多时间去做我喜欢的事情？
+    </p>
+    <p>
+        有时候，我真的希望能逃离这种循环，去探索我真正感兴趣的东西，或是简单地什么都不做。
+        <span style="color: red;">我现在只想逃离，暂时不去面对学校的繁忙生活。</span>
+    </p>
+</body>
+</html>
